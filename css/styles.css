@@ -11507,6 +11507,7 @@ html {
 .headerbg {
   background-image:url("../assets/img/festivalbg2.jpg");
   background-size: cover;
+  background-position: center;
   height: auto;
   width: auto;
 }
