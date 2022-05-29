@@ -11,3 +11,5 @@ Now I started on making an image slideshow and give a brief description of what 
 After this I started making a calendar that shows the days that he is busy, this took a while because it was the same repetitive thing over and over again.
 Now i started filling everything in with information.
 This is how my experience went on making this website.
+
+The website is not currenctly online because i am waiting for my presentation so i can make the changes they aks me to do before i will upload it on the web server. For now i am hosting this website on this address: https://celebrated-unicorn-b6f3e5.netlify.app/
